@@ -86,7 +86,7 @@ Example: If a user has provided 10 LP and the total LP amount on the Ethereum ne
 
 #### ITP Token Holders
 - **Allocation Points:** 850 AP
-- **Unique Users:** 22,969
+- **Unique Users:** 23,563
 - **Total ITP:** 4,980,889 ITP
 
 ITP token holders represent the core supporters and community in the Interport Finance ecosystem. By holding ITP tokens, they demonstrate long-term commitment and belief in the Project's success.
